@@ -1,0 +1,2 @@
+# MASTER-MIND-GAME
+using C 
