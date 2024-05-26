@@ -166,6 +166,5 @@ int main() {
     }
     printf("\n\t\t\t\t\t\t\t\t\t realised by : ");
     printf("\n\t\t\t\t\t\t\t\t\t\t \033[1;35m Zayneb LAMRAIKI ");
-    printf("\n\t\t\t\t\t\t\t\t\t\t \033[1;35mMalak BENAICHA  ");
     return 0;
 }
